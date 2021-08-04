@@ -1,0 +1,173 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="1b4ce401-66dd-495b-8e0c-d1b8e4b4271e" name="Default Changelist" comment="commit" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ComposerSettings">
+    <execution />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitSEFilterConfiguration">
+    <file-type-list>
+      <filtered-out-file-type name="LOCAL_BRANCH" />
+      <filtered-out-file-type name="REMOTE_BRANCH" />
+      <filtered-out-file-type name="TAG" />
+      <filtered-out-file-type name="COMMIT_BY_MESSAGE" />
+    </file-type-list>
+  </component>
+  <component name="ProjectId" id="1tOWRavoZtTjQBIKzHFxfl9vQF3" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="dart.analysis.tool.window.visible" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/app/views/pages" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+    <property name="show.migrate.to.gradle.popup" value="false" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\xampp\htdocs\Sharepostphp\app\views\pages" />
+    </key>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="1b4ce401-66dd-495b-8e0c-d1b8e4b4271e" name="Default Changelist" comment="" />
+      <created>1622640614487</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1622640614487</updated>
+      <workItem from="1622640618059" duration="62000" />
+      <workItem from="1622640743059" duration="764000" />
+      <workItem from="1622738109287" duration="7120000" />
+      <workItem from="1622821035289" duration="734000" />
+      <workItem from="1622822328719" duration="163000" />
+      <workItem from="1622982441463" duration="3670000" />
+      <workItem from="1623247791987" duration="5248000" />
+      <workItem from="1623348252651" duration="3135000" />
+      <workItem from="1623866061853" duration="2104000" />
+      <workItem from="1624035683182" duration="10226000" />
+      <workItem from="1624105173893" duration="2801000" />
+      <workItem from="1624204667728" duration="17085000" />
+      <workItem from="1624311994440" duration="22997000" />
+      <workItem from="1624431013251" duration="23160000" />
+      <workItem from="1624538892040" duration="7553000" />
+      <workItem from="1625131058864" duration="9664000" />
+      <workItem from="1625243436624" duration="37000" />
+      <workItem from="1625252853513" duration="20137000" />
+      <workItem from="1625412858589" duration="2166000" />
+      <workItem from="1625422703467" duration="7204000" />
+      <workItem from="1625566734237" duration="4132000" />
+      <workItem from="1625906016286" duration="2497000" />
+      <workItem from="1626188442552" duration="625000" />
+      <workItem from="1626254105448" duration="7540000" />
+      <workItem from="1626683714924" duration="76000" />
+      <workItem from="1626901234740" duration="639000" />
+      <workItem from="1627287156358" duration="7000" />
+      <workItem from="1628084081549" duration="211000" />
+    </task>
+    <task id="LOCAL-00001" summary="commit">
+      <created>1623355047671</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1623355047671</updated>
+    </task>
+    <task id="LOCAL-00002" summary="commit">
+      <created>1624046023463</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1624046023463</updated>
+    </task>
+    <task id="LOCAL-00003" summary="commit">
+      <created>1624225353196</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1624225353196</updated>
+    </task>
+    <task id="LOCAL-00004" summary="commit">
+      <created>1624393972698</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1624393972699</updated>
+    </task>
+    <task id="LOCAL-00005" summary="commit">
+      <created>1624458126574</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1624458126574</updated>
+    </task>
+    <task id="LOCAL-00006" summary="commit">
+      <created>1624489438852</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1624489438852</updated>
+    </task>
+    <task id="LOCAL-00007" summary="commit">
+      <created>1624489493075</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1624489493075</updated>
+    </task>
+    <task id="LOCAL-00008" summary="commit">
+      <created>1624489666145</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1624489666145</updated>
+    </task>
+    <task id="LOCAL-00009" summary="commit">
+      <created>1624548569878</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1624548569878</updated>
+    </task>
+    <option name="localTasksCounter" value="10" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+    <MESSAGE value="commit" />
+    <option name="LAST_COMMIT_MESSAGE" value="commit" />
+  </component>
+</project>
